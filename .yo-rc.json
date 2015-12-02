@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "React Investigation",
+    "packageVersion": "1.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "bassettsj",
+    "githubRepository": "react-case-study-presentation"
+  }
+}
