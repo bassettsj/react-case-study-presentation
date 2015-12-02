@@ -1,1 +1,27 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "what-is-react.md",
+        "how-does-it-work.md",
+        "example-component.html"
+    ],
+    [
+        "pros-1.md",
+        "pros-2.md",
+        "pros-3.md",
+        "pros-4.md",
+        "pros-5.md",
+        "pros-6.md",
+        "pros-7.md",
+        "pros-8.md",
+        "pros-9.md"
+    ],
+    "cons.md",
+    [
+        "integration.md",
+        "react-wrapped-in-backbone-view.md",
+        "react-as-backbone-view.md",
+        "redux-as-a-seperate-app.md"
+    ],
+    "next-steps.md"
+]
